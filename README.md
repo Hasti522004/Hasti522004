@@ -8,7 +8,7 @@
 <div align="center">
     <ul>
         <li>
-         🔭 I’m currently working on **ICT Portal(Convertion of Web Portal to Mobile App)**
+         🔭 I’m currently working on ICT Portal(Convertion of Web Portal to Mobile App)
         </li>
         <li>
            📝 I regularly write articles on [https://wordpress.com/home/learnquicktech.wordpress.com]
@@ -17,7 +17,7 @@
          💬 Ask me about **PHP, JavaScript, Data Structure, Database Management System, Java, C++**
         </li>
         <li>
-            📫 How to reach me **hasti.hajipara@gmail.com**
+            📫 How to reach me @hasti.hajipara@gmail.com
         </li>
     </ul>
 
