@@ -14,7 +14,7 @@
            📝 I regularly write articles on [https://wordpress.com/home/learnquicktech.wordpress.com]
         </li>
         <li>
-         💬 Ask me about **PHP, JavaScript, Data Structure, Database Management System, Java, C++**
+         💬 Ask me about <b>C#, C++, PHP, JavaScript, Data Structure, Database Management System, Java</b>
         </li>
         <li>
             📫 How to reach me @hasti.hajipara@gmail.com
