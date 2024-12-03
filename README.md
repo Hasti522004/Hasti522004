@@ -8,10 +8,7 @@
 <div align="center">
     <ul>
         <li>
-         🔭 I’m currently working on ICT Portal(Convertion of Web Portal to Mobile App)
-        </li>
-        <li>
-           📝 I regularly write articles on [https://wordpress.com/home/learnquicktech.wordpress.com]
+         🔭 I’m currently working in Evision IT Solution as an Associate Software Developer
         </li>
         <li>
          💬 Ask me about <b>C#, C++, PHP, JavaScript, Data Structure, Database Management System, Java</b>
